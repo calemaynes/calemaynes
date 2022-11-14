@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @calemaynes
 - 👀 I’m interested in IoT, Application Development, Game Development, Sustainability
 - 🌱 I’m currently learning Django, C#, Full-Stack web development
-- 📫 How to reach me: cale@cleano2.ca
